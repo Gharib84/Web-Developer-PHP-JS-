@@ -11,3 +11,4 @@ Stwórz klasę PhoneKeyboardConverter zawierającą metody:
 Metody powinny przyjmować jako wymagany parametr wejściowy ciąg znaków i zwracać przetłumaczony ciąg. Klasa może zawierać dowolne inne zmienne/metody, które zostały uznane za niezbędne bądź pomocne przy wykonaniu zadania.
 
 #### Przykładowe dane wejściowe i oczekiwane rezultaty:
+![Screenshot 2022-08-01 at 14-39-27 zadanie PHP](https://user-images.githubusercontent.com/29811601/182156613-a6c2c2ca-6258-46bb-97b1-daa9d78cc4f3.png)
